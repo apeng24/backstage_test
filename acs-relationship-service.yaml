@@ -19,5 +19,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: acs
+  owner: don.whittle
   system: public-websites
