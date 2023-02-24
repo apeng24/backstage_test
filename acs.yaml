@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: acs
+  description: In charge of Autodesk Construction Cloud.
+spec:
+  type: product-area
+  profile:
+    displayName: ACS
+    email: infrastructure@example.com
+    picture: https://example.com/groups/bu-infrastructure.jpeg
+  children: []
+  members: [don-whittle]
