@@ -4,8 +4,8 @@ metadata:
   name: objectarx
   description: The ObjectARX programming environment provides object-oriented C++, C#, and VB .NET application programming interfaces for developers to use, customize, and extend AutoCAD
   tags:
-    - java
-    - data
+    - c++
+    - na
   annotations:
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
 spec:
@@ -13,6 +13,3 @@ spec:
   lifecycle: production
   owner: autocad product team
   system: artist-engagement-portal
-  language: C++
-  compute: test
-  region: na
