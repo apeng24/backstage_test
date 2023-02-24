@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: backstage_test
-  annotations:
-    github.com/project-slug: apeng24/backstage_test
-spec:
-  type: other
-  lifecycle: unknown
