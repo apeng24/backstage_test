@@ -19,5 +19,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: artist-relations-team
+  owner: acs
   system: public-websites
