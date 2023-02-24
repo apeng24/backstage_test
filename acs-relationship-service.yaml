@@ -4,9 +4,9 @@ metadata:
   name: ACS Relationship Service
   description: Test description goes here
   labels:
-    - primary-runtime: dotnetcore
-    - persisted-data: MongoDB
-    - compute: lambda
+    primary-runtime: dotnetcore
+    persisted-data: MongoDB
+    compute: lambda
   tags:
     - us-east
     - us-west
