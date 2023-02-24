@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ACS Relationship Service
+  name: acs-relationship-service
   description: Test description goes here
   labels:
     primary-runtime: dotnetcore
