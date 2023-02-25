@@ -4,7 +4,7 @@ metadata:
   name: revit-sdk
   description: Test description goes here
   tags:
-    - .net
+    - dot-net
     - version-2023
     - version-2024
   links:
