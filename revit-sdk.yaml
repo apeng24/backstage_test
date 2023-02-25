@@ -5,8 +5,8 @@ metadata:
   description: Test description goes here
   tags:
     - .net
-    - version 2023
-    - version 2024
+    - version-2023
+    - version-2024
   links:
     - url: https://admin.example-org.com
       title: Admin Dashboard
