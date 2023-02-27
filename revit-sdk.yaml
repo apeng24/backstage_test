@@ -15,7 +15,7 @@ metadata:
 spec:
   type: sdk
   lifecycle: production
-  owner: scott.reinemann
+  owner: revit product team
   system: revit
   consumesApis:
     - revit-api
