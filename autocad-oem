@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: autocad-oem
+  description: a customizable application
+    - c++
+    - na
+  annotations:
+    backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
+spec:
+  type: application
+  lifecycle: production
+  owner: autocad product team
+  system: autocad
