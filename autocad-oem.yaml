@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: autocad-oem
   description: a customizable application
+  tags:
     - c++
     - na
   annotations:
