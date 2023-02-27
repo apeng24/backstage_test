@@ -12,4 +12,4 @@ spec:
   type: sdk
   lifecycle: production
   owner: autocad product team
-  system: artist-engagement-portal
+  system: autocad
