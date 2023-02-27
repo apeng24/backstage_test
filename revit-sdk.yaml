@@ -17,4 +17,5 @@ spec:
   lifecycle: production
   owner: scott.reinemann
   system: revit
-  consumesApis: revit-api
+  consumesApis:
+    - revit-api
