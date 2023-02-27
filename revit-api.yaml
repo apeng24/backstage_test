@@ -6,7 +6,7 @@ metadata:
 spec:
   type: trpc
   lifecycle: experimental
-  owner: don.whittle
+  owner: revit product team
   system: revit
   definition: |
     import { z } from 'zod';
